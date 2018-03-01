@@ -7,4 +7,4 @@ Created on Thu Mar  1 09:57:46 2018
 """
 
 import pandas as pd
-oceania=pd.read_csv('/Users/nedakhosravi/Documents/DCW/data/gapminder_gdp_oceania.csv')
+data_oceania=pd.read_csv('/Users/nedakhosravi/Documents/DCW/data/gapminder_gdp_oceania.csv')
